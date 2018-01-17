@@ -1,12 +1,12 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/9253100",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/9253100/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/9253100/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/tag/jdk-9%2B181-20181601",
-  "id": 9253100,
-  "tag_name": "jdk-9+181-20181601",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/9270053",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/9270053/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/9270053/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/tag/jdk-9%2B181-20181701",
+  "id": 9270053,
+  "tag_name": "jdk-9+181-20181701",
   "target_commitish": "master",
-  "name": "jdk-9+181-20181601",
+  "name": "jdk-9+181-20181701",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -28,13 +28,13 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-01-15T14:15:49Z",
-  "published_at": "2018-01-16T13:59:34Z",
+  "created_at": "2018-01-17T02:35:33Z",
+  "published_at": "2018-01-17T14:14:36Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889155",
-      "id": 5889155,
-      "name": "OpenJDK9_aarch64_Linux_20181601.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900190",
+      "id": 5900190,
+      "name": "OpenJDK9_aarch64_Linux_20181701.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -59,14 +59,14 @@
       "state": "uploaded",
       "size": 105,
       "download_count": 0,
-      "created_at": "2018-01-16T13:59:34Z",
-      "updated_at": "2018-01-16T13:59:35Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_aarch64_Linux_20181601.sha256.txt"
+      "created_at": "2018-01-17T14:14:36Z",
+      "updated_at": "2018-01-17T14:14:37Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_aarch64_Linux_20181701.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889156",
-      "id": 5889156,
-      "name": "OpenJDK9_aarch64_Linux_20181601.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900191",
+      "id": 5900191,
+      "name": "OpenJDK9_aarch64_Linux_20181701.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -89,16 +89,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 192113032,
-      "download_count": 1,
-      "created_at": "2018-01-16T13:59:35Z",
-      "updated_at": "2018-01-16T14:00:01Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_aarch64_Linux_20181601.tar.gz"
+      "size": 192109519,
+      "download_count": 0,
+      "created_at": "2018-01-17T14:14:37Z",
+      "updated_at": "2018-01-17T14:14:59Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_aarch64_Linux_20181701.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889160",
-      "id": 5889160,
-      "name": "OpenJDK9_ppc64le_Linux_20181601.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900203",
+      "id": 5900203,
+      "name": "OpenJDK9_ppc64le_Linux_20181701.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -123,14 +123,14 @@
       "state": "uploaded",
       "size": 105,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:04Z",
-      "updated_at": "2018-01-16T14:00:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_ppc64le_Linux_20181601.sha256.txt"
+      "created_at": "2018-01-17T14:15:22Z",
+      "updated_at": "2018-01-17T14:15:22Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_ppc64le_Linux_20181701.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889161",
-      "id": 5889161,
-      "name": "OpenJDK9_ppc64le_Linux_20181601.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900206",
+      "id": 5900206,
+      "name": "OpenJDK9_ppc64le_Linux_20181701.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -153,16 +153,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 192345142,
+      "size": 192347376,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:06Z",
-      "updated_at": "2018-01-16T14:00:22Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_ppc64le_Linux_20181601.tar.gz"
+      "created_at": "2018-01-17T14:15:22Z",
+      "updated_at": "2018-01-17T14:15:36Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_ppc64le_Linux_20181701.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889158",
-      "id": 5889158,
-      "name": "OpenJDK9_ppc64_AIX_20181601.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900196",
+      "id": 5900196,
+      "name": "OpenJDK9_ppc64_AIX_20181701.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -187,14 +187,14 @@
       "state": "uploaded",
       "size": 101,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:02Z",
-      "updated_at": "2018-01-16T14:00:02Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_ppc64_AIX_20181601.sha256.txt"
+      "created_at": "2018-01-17T14:15:00Z",
+      "updated_at": "2018-01-17T14:15:00Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_ppc64_AIX_20181701.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889159",
-      "id": 5889159,
-      "name": "OpenJDK9_ppc64_AIX_20181601.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900197",
+      "id": 5900197,
+      "name": "OpenJDK9_ppc64_AIX_20181701.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -217,16 +217,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 307200,
+      "size": 294917585,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:04Z",
-      "updated_at": "2018-01-16T14:00:04Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_ppc64_AIX_20181601.tar.gz"
+      "created_at": "2018-01-17T14:15:00Z",
+      "updated_at": "2018-01-17T14:15:21Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_ppc64_AIX_20181701.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889165",
-      "id": 5889165,
-      "name": "OpenJDK9_s390x_Linux_20181601.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900210",
+      "id": 5900210,
+      "name": "OpenJDK9_s390x_Linux_20181701.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -251,14 +251,14 @@
       "state": "uploaded",
       "size": 103,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:22Z",
-      "updated_at": "2018-01-16T14:00:22Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_s390x_Linux_20181601.sha256.txt"
+      "created_at": "2018-01-17T14:15:36Z",
+      "updated_at": "2018-01-17T14:15:36Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_s390x_Linux_20181701.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889167",
-      "id": 5889167,
-      "name": "OpenJDK9_s390x_Linux_20181601.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900211",
+      "id": 5900211,
+      "name": "OpenJDK9_s390x_Linux_20181701.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -281,16 +281,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 194031389,
+      "size": 194034924,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:23Z",
-      "updated_at": "2018-01-16T14:00:37Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_s390x_Linux_20181601.tar.gz"
+      "created_at": "2018-01-17T14:15:37Z",
+      "updated_at": "2018-01-17T14:16:24Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_s390x_Linux_20181701.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889169",
-      "id": 5889169,
-      "name": "OpenJDK9_x64_Linux_20181601.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900221",
+      "id": 5900221,
+      "name": "OpenJDK9_x64_Linux_20181701.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -315,14 +315,14 @@
       "state": "uploaded",
       "size": 101,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:37Z",
-      "updated_at": "2018-01-16T14:00:38Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_x64_Linux_20181601.sha256.txt"
+      "created_at": "2018-01-17T14:16:24Z",
+      "updated_at": "2018-01-17T14:16:25Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_x64_Linux_20181701.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889170",
-      "id": 5889170,
-      "name": "OpenJDK9_x64_Linux_20181601.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900223",
+      "id": 5900223,
+      "name": "OpenJDK9_x64_Linux_20181701.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -345,16 +345,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 194618514,
+      "size": 208194858,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:38Z",
-      "updated_at": "2018-01-16T14:00:52Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_x64_Linux_20181601.tar.gz"
+      "created_at": "2018-01-17T14:16:25Z",
+      "updated_at": "2018-01-17T14:16:39Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_x64_Linux_20181701.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889172",
-      "id": 5889172,
-      "name": "OpenJDK9_x64_Mac_20181601.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900226",
+      "id": 5900226,
+      "name": "OpenJDK9_x64_Mac_20181701.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -379,14 +379,14 @@
       "state": "uploaded",
       "size": 99,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:52Z",
-      "updated_at": "2018-01-16T14:00:53Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_x64_Mac_20181601.sha256.txt"
+      "created_at": "2018-01-17T14:16:39Z",
+      "updated_at": "2018-01-17T14:16:39Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_x64_Mac_20181701.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889173",
-      "id": 5889173,
-      "name": "OpenJDK9_x64_Mac_20181601.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900227",
+      "id": 5900227,
+      "name": "OpenJDK9_x64_Mac_20181701.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -409,16 +409,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 188963591,
+      "size": 188959308,
       "download_count": 0,
-      "created_at": "2018-01-16T14:00:53Z",
-      "updated_at": "2018-01-16T14:01:05Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_x64_Mac_20181601.tar.gz"
+      "created_at": "2018-01-17T14:16:40Z",
+      "updated_at": "2018-01-17T14:16:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_x64_Mac_20181701.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889175",
-      "id": 5889175,
-      "name": "OpenJDK9_x64_Win_20181601.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900229",
+      "id": 5900229,
+      "name": "OpenJDK9_x64_Win_20181701.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -443,14 +443,14 @@
       "state": "uploaded",
       "size": 96,
       "download_count": 0,
-      "created_at": "2018-01-16T14:01:05Z",
-      "updated_at": "2018-01-16T14:01:05Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_x64_Win_20181601.sha256.txt"
+      "created_at": "2018-01-17T14:16:54Z",
+      "updated_at": "2018-01-17T14:16:54Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_x64_Win_20181701.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5889176",
-      "id": 5889176,
-      "name": "OpenJDK9_x64_Win_20181601.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/5900230",
+      "id": 5900230,
+      "name": "OpenJDK9_x64_Win_20181701.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -473,14 +473,14 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 191580572,
+      "size": 191583102,
       "download_count": 0,
-      "created_at": "2018-01-16T14:01:06Z",
-      "updated_at": "2018-01-16T14:01:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181601/OpenJDK9_x64_Win_20181601.zip"
+      "created_at": "2018-01-17T14:16:54Z",
+      "updated_at": "2018-01-17T14:17:19Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20181701/OpenJDK9_x64_Win_20181701.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/tarball/jdk-9+181-20181601",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/zipball/jdk-9+181-20181601",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/tarball/jdk-9+181-20181701",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/zipball/jdk-9+181-20181701",
   "body": "Nightly Build of jdk-9+181"
 }
