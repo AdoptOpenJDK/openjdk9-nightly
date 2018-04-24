@@ -186,7 +186,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 101,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2018-04-24T15:07:48Z",
       "updated_at": "2018-04-24T15:07:48Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180424/OpenJDK9_x64_Linux_20180424.sha256.txt"
@@ -218,7 +218,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 207112935,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-04-24T15:07:48Z",
       "updated_at": "2018-04-24T15:08:45Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180424/OpenJDK9_x64_Linux_20180424.tar.gz"
