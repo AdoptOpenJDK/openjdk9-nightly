@@ -5799,8 +5799,8 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180503/OpenJDK9_ppc64_AIX_20180503.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7050116",
-        "id": 7050116,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7061384",
+        "id": 7061384,
         "name": "OpenJDK9_s390x_Linux_20180503.sha256.txt",
         "label": "",
         "uploader": {
@@ -5826,13 +5826,13 @@
         "state": "uploaded",
         "size": 103,
         "download_count": 0,
-        "created_at": "2018-05-02T22:59:27Z",
-        "updated_at": "2018-05-02T22:59:27Z",
+        "created_at": "2018-05-03T19:47:41Z",
+        "updated_at": "2018-05-03T19:47:41Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180503/OpenJDK9_s390x_Linux_20180503.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7050117",
-        "id": 7050117,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7061385",
+        "id": 7061385,
         "name": "OpenJDK9_s390x_Linux_20180503.tar.gz",
         "label": "",
         "uploader": {
@@ -5856,10 +5856,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 193621522,
+        "size": 193620892,
         "download_count": 0,
-        "created_at": "2018-05-02T22:59:28Z",
-        "updated_at": "2018-05-02T22:59:44Z",
+        "created_at": "2018-05-03T19:47:42Z",
+        "updated_at": "2018-05-03T19:48:07Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180503/OpenJDK9_s390x_Linux_20180503.tar.gz"
       },
       {
