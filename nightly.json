@@ -5927,8 +5927,8 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180503/OpenJDK9_x64_Linux_20180503.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/6407388",
-        "id": 6407388,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7060246",
+        "id": 7060246,
         "name": "OpenJDK9_x64_Mac_20180503.sha256.txt",
         "label": "",
         "uploader": {
@@ -5954,13 +5954,13 @@
         "state": "uploaded",
         "size": 99,
         "download_count": 0,
-        "created_at": "2018-03-05T14:00:31Z",
-        "updated_at": "2018-03-05T14:00:31Z",
+        "created_at": "2018-05-03T17:51:35Z",
+        "updated_at": "2018-05-03T17:51:35Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180503/OpenJDK9_x64_Mac_20180503.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/6407394",
-        "id": 6407394,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7060248",
+        "id": 7060248,
         "name": "OpenJDK9_x64_Mac_20180503.tar.gz",
         "label": "",
         "uploader": {
@@ -5984,10 +5984,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 189270403,
-        "download_count": 2,
-        "created_at": "2018-03-05T14:00:31Z",
-        "updated_at": "2018-03-05T14:00:48Z",
+        "size": 189265463,
+        "download_count": 0,
+        "created_at": "2018-05-03T17:51:36Z",
+        "updated_at": "2018-05-03T17:52:18Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180503/OpenJDK9_x64_Mac_20180503.tar.gz"
       },
       {
