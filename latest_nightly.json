@@ -4,6 +4,7 @@
   "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/11239584/assets{?name,label}",
   "html_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/tag/jdk-9%2B181-20180530",
   "id": 11239584,
+  "node_id": "MDc6UmVsZWFzZTExMjM5NTg0",
   "tag_name": "jdk-9+181-20180530",
   "target_commitish": "master",
   "name": "jdk-9+181-20180530",
@@ -11,6 +12,7 @@
   "author": {
     "login": "adoptopenjdk-github-bot",
     "id": 26602665,
+    "node_id": "MDQ6VXNlcjI2NjAyNjY1",
     "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
     "gravatar_id": "",
     "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -34,11 +36,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7349437",
       "id": 7349437,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDk0Mzc=",
       "name": "OpenJDK9_aarch64_Linux_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -66,11 +70,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7349438",
       "id": 7349438,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDk0Mzg=",
       "name": "OpenJDK9_aarch64_Linux_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -98,11 +104,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7351151",
       "id": 7351151,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTExNTE=",
       "name": "OpenJDK9_ppc64le_Linux_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -130,11 +138,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7351152",
       "id": 7351152,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTExNTI=",
       "name": "OpenJDK9_ppc64le_Linux_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -162,11 +172,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7349878",
       "id": 7349878,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDk4Nzg=",
       "name": "OpenJDK9_ppc64_AIX_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -194,11 +206,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7349880",
       "id": 7349880,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDk4ODA=",
       "name": "OpenJDK9_ppc64_AIX_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -226,11 +240,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7352357",
       "id": 7352357,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIzNTc=",
       "name": "OpenJDK9_x64_Linux_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -258,11 +274,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7352358",
       "id": 7352358,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIzNTg=",
       "name": "OpenJDK9_x64_Linux_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -290,11 +308,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7352081",
       "id": 7352081,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIwODE=",
       "name": "OpenJDK9_x64_Mac_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -322,11 +342,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7352082",
       "id": 7352082,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIwODI=",
       "name": "OpenJDK9_x64_Mac_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -354,11 +376,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7349425",
       "id": 7349425,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDk0MjU=",
       "name": "OpenJDK9_x64_Win_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -386,11 +410,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7349426",
       "id": 7349426,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDk0MjY=",
       "name": "OpenJDK9_x64_Win_20180530.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -410,7 +436,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 192159103,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-05-30T12:55:14Z",
       "updated_at": "2018-05-30T12:55:37Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180530/OpenJDK9_x64_Win_20180530.zip"
