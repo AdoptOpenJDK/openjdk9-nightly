@@ -103,9 +103,9 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180601/OpenJDK9_ppc64le_Linux_20180601.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7369443",
-        "id": 7369443,
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNjk0NDM=",
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7371588",
+        "id": 7371588,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNzE1ODg=",
         "name": "OpenJDK9_s390x_Linux_20180601.sha256.txt",
         "label": "",
         "uploader": {
@@ -132,14 +132,14 @@
         "state": "uploaded",
         "size": 103,
         "download_count": 0,
-        "created_at": "2018-06-01T00:27:22Z",
-        "updated_at": "2018-06-01T00:27:22Z",
+        "created_at": "2018-06-01T06:20:52Z",
+        "updated_at": "2018-06-01T06:20:52Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180601/OpenJDK9_s390x_Linux_20180601.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7369444",
-        "id": 7369444,
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNjk0NDQ=",
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7371589",
+        "id": 7371589,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNzE1ODk=",
         "name": "OpenJDK9_s390x_Linux_20180601.tar.gz",
         "label": "",
         "uploader": {
@@ -164,10 +164,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 193581684,
+        "size": 193715636,
         "download_count": 0,
-        "created_at": "2018-06-01T00:27:22Z",
-        "updated_at": "2018-06-01T00:27:45Z",
+        "created_at": "2018-06-01T06:20:54Z",
+        "updated_at": "2018-06-01T06:21:15Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180601/OpenJDK9_s390x_Linux_20180601.tar.gz"
       },
       {
