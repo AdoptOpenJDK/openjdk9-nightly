@@ -301,7 +301,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 207225917,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-06-01T00:20:48Z",
         "updated_at": "2018-06-01T00:21:28Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180601/OpenJDK9_x64_Linux_20180601.tar.gz"
@@ -817,7 +817,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 189494664,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-05-31T16:24:48Z",
         "updated_at": "2018-05-31T16:25:09Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180531/OpenJDK9_x64_Mac_20180531.tar.gz"
@@ -1197,7 +1197,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 207110690,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-05-30T16:53:22Z",
         "updated_at": "2018-05-30T16:53:32Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-20180530/OpenJDK9_x64_Linux_20180530.tar.gz"
