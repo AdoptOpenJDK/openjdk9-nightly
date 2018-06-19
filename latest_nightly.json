@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/11527719",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/11527719/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/11527719/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/tag/jdk-9%2B181-201818060526",
-  "id": 11527719,
-  "node_id": "MDc6UmVsZWFzZTExNTI3NzE5",
-  "tag_name": "jdk-9+181-201818060526",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/11541341",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/11541341/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/11541341/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/tag/jdk-9%2B181-201818061226",
+  "id": 11541341,
+  "node_id": "MDc6UmVsZWFzZTExNTQxMzQx",
+  "tag_name": "jdk-9+181-201818061226",
   "target_commitish": "master",
-  "name": "jdk-9+181-201818060526",
+  "name": "jdk-9+181-201818061226",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-06-18T12:55:32Z",
-  "published_at": "2018-06-18T13:29:23Z",
+  "created_at": "2018-06-19T05:25:57Z",
+  "published_at": "2018-06-19T05:57:24Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7573725",
-      "id": 7573725,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1NzM3MjU=",
-      "name": "OpenJDK9_ppc64_AIX_201818060526.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7583886",
+      "id": 7583886,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1ODM4ODY=",
+      "name": "OpenJDK9_x64_Linux_201818061226.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -63,15 +63,15 @@
       "state": "uploaded",
       "size": 105,
       "download_count": 0,
-      "created_at": "2018-06-18T13:29:24Z",
-      "updated_at": "2018-06-18T13:29:24Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201818060526/OpenJDK9_ppc64_AIX_201818060526.sha256.txt"
+      "created_at": "2018-06-19T05:57:24Z",
+      "updated_at": "2018-06-19T05:57:25Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201818061226/OpenJDK9_x64_Linux_201818061226.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7573726",
-      "id": 7573726,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1NzM3MjY=",
-      "name": "OpenJDK9_ppc64_AIX_201818060526.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/releases/assets/7583888",
+      "id": 7583888,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1ODM4ODg=",
+      "name": "OpenJDK9_x64_Linux_201818061226.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -95,14 +95,14 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 294941140,
+      "size": 207227559,
       "download_count": 0,
-      "created_at": "2018-06-18T13:29:24Z",
-      "updated_at": "2018-06-18T13:29:39Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201818060526/OpenJDK9_ppc64_AIX_201818060526.tar.gz"
+      "created_at": "2018-06-19T05:57:30Z",
+      "updated_at": "2018-06-19T05:57:40Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201818061226/OpenJDK9_x64_Linux_201818061226.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/tarball/jdk-9+181-201818060526",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/zipball/jdk-9+181-201818060526",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/tarball/jdk-9+181-201818061226",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-nightly/zipball/jdk-9+181-201818061226",
   "body": "Nightly Build of jdk-9+181"
 }
