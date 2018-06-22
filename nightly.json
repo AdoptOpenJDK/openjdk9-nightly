@@ -205,7 +205,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 207227559,
-        "download_count": 13,
+        "download_count": 14,
         "created_at": "2018-06-19T05:57:30Z",
         "updated_at": "2018-06-19T05:57:40Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201818061226/OpenJDK9_x64_Linux_201818061226.tar.gz"
