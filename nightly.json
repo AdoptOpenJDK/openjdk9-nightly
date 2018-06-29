@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-06-29T13:08:42Z",
         "updated_at": "2018-06-29T13:08:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201806291426/OpenJDK9_aarch64_Linux_201806291426.sha256.txt"
@@ -375,7 +375,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-06-29T05:50:51Z",
         "updated_at": "2018-06-29T05:50:51Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201806281426/OpenJDK9_ppc64le_Linux_201806281426.sha256.txt"
@@ -823,7 +823,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 9,
+        "download_count": 10,
         "created_at": "2018-06-27T18:20:12Z",
         "updated_at": "2018-06-27T18:20:13Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201806271426/OpenJDK9_x64_Linux_201806271426.sha256.txt"
@@ -1379,7 +1379,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2018-06-19T06:40:32Z",
         "updated_at": "2018-06-19T06:40:32Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201818061304/OpenJDK9_s390x_Linux_201818061304.sha256.txt"
@@ -1413,7 +1413,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 193717709,
-        "download_count": 25,
+        "download_count": 27,
         "created_at": "2018-06-19T06:40:32Z",
         "updated_at": "2018-06-19T06:40:42Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201818061304/OpenJDK9_s390x_Linux_201818061304.tar.gz"
