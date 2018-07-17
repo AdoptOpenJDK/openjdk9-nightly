@@ -62,7 +62,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 109,
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2018-07-17T12:54:28Z",
       "updated_at": "2018-07-17T12:54:28Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201807171426/OpenJDK9_aarch64_Linux_201807171426.sha256.txt"
