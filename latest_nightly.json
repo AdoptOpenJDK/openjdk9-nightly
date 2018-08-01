@@ -164,7 +164,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 187784360,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-07-31T14:10:19Z",
       "updated_at": "2018-07-31T14:10:31Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201807311426/OpenJDK9_arm32_linux_201807311426.tar.gz"
