@@ -96,7 +96,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 190741507,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2018-07-31T13:19:12Z",
       "updated_at": "2018-07-31T13:19:22Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201807311426/OpenJDK9_aarch64_Linux_201807311426.tar.gz"
@@ -164,7 +164,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 187784360,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-07-31T14:10:19Z",
       "updated_at": "2018-07-31T14:10:31Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201807311426/OpenJDK9_arm32_linux_201807311426.tar.gz"
@@ -436,7 +436,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 207227259,
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2018-07-31T14:02:34Z",
       "updated_at": "2018-07-31T14:02:47Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201807311426/OpenJDK9_x64_Linux_201807311426.tar.gz"
@@ -504,7 +504,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 192424369,
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2018-07-31T12:56:59Z",
       "updated_at": "2018-07-31T12:57:11Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201807311426/OpenJDK9_x64_Windows_201807311426.zip"
