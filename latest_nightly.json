@@ -300,7 +300,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 294948855,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-08-03T14:26:13Z",
       "updated_at": "2018-08-03T14:26:31Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/jdk-9%2B181-201808031426/OpenJDK9_ppc64_AIX_201808031426.tar.gz"
