@@ -131,7 +131,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 5,
+        "download_count": 8,
         "created_at": "2018-08-15T13:13:48Z",
         "updated_at": "2018-08-15T13:13:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/201808151426/OpenJDK9_aarch64_Linux_201808151426.sha256.txt"
@@ -267,7 +267,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 3,
+        "download_count": 6,
         "created_at": "2018-08-15T15:27:39Z",
         "updated_at": "2018-08-15T15:27:39Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/201808151426/OpenJDK9_ppc64le_Linux_201808151426.sha256.txt"
@@ -715,7 +715,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 6,
+        "download_count": 9,
         "created_at": "2018-08-14T16:37:09Z",
         "updated_at": "2018-08-14T16:37:10Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/201808141426/OpenJDK9_x64_Linux_201808141426.sha256.txt"
@@ -749,7 +749,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 207233317,
-        "download_count": 0,
+        "download_count": 3,
         "created_at": "2018-08-14T16:37:10Z",
         "updated_at": "2018-08-14T16:37:28Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/201808141426/OpenJDK9_x64_Linux_201808141426.tar.gz"
@@ -783,7 +783,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 5,
+        "download_count": 8,
         "created_at": "2018-08-15T10:38:11Z",
         "updated_at": "2018-08-15T10:38:11Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/201808141426/OpenJDK9_s390x_Linux_201808141426.sha256.txt"
