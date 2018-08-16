@@ -437,7 +437,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 193711604,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2018-08-15T20:06:50Z",
         "updated_at": "2018-08-15T20:07:14Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-nightly/releases/download/201808151426/OpenJDK9_s390x_Linux_201808151426.tar.gz"
